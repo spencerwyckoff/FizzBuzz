@@ -1,1 +1,1 @@
-An in class excercise.
+Spencer's (incomplete) version of Fizz Buzz
